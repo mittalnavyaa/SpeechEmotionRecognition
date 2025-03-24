@@ -1,3 +1,4 @@
-# Preprocessing RAVDESS Dataset for Speech Emotion Recognition
+# File Details
 
-This repository contains `preprocess_RAVDESS.py`, a script that converts the [RAVDESS dataset](https://huggingface.co/ehcalabres/wav2vec2-lg-xlsr-en-speech-emotion-recognition) into a format compatible with the speech emotion recognition model in the same directory by processing and normalizing audio files, converting labels, and outputting preprocessed data for direct use with the Wav2Vec2 model.
+## 1. preprocess_RAVDESS.py
+This script converts the [RAVDESS dataset](https://huggingface.co/ehcalabres/wav2vec2-lg-xlsr-en-speech-emotion-recognition) into a format compatible with the speech emotion recognition model in the same directory. It processes and normalizes audio files, converts labels, and outputs preprocessed data for direct use with the Wav2Vec2 model.
