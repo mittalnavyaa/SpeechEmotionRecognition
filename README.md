@@ -47,3 +47,18 @@ Contains emotion labels for the test set of the MELD dataset.
 
 ## 16. test_MELD.py
 Tests the MELD dataset on the fully connected feed-forward neural network pipeline.
+
+## 17. RAVDESS_mel.py
+Converts the RAVDESS dataset into Mel spectrograms.
+
+## 18. preprocess_RAVDESS_Xception.py
+Preprocesses the RAVDESS Mel spectrogram dataset for the Xception model.
+
+## 19. Xception_RAVDESS_testing.py
+Tests the preprocessed RAVDESS Mel spectrogram dataset.
+
+## 20. RAVDESS_CQT.py
+Converts the RAVDESS dataset into CQT (Constant-Q Transform) form.
+
+## 21. Xception_RAVDESS_CQT_testing.py
+Tests the CQT dataset on the Xception model.
